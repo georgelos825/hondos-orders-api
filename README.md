@@ -1,4 +1,4 @@
-HondosOrders API - README for Humans 🙃
+HondosOrders API - README
 
 0) What is this?
 - .NET 8 Web API with one endpoint:
